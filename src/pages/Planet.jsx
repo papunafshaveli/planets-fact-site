@@ -23,7 +23,7 @@ export default function Planet() {
           </Wikipedia>
         </Source>
       </PlanetNameAndInfo>
-      //PlanetNameAndInfo და მართკუთხა ინფოები მოვაქციო ერთ დივში და გავფლექსო
+      {/* PlanetNameAndInfo და მართკუთხა ინფოები მოვაქციო ერთ დივში და გავფლექსო */}
       ჰორიზონტალურად
     </PlanetDiv>
   );
