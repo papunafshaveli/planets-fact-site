@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Antonio";
+  color: white;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.main-app-div {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #070724;
+  background-image: url(/assets/background-stars.svg);
+  padding: 3.9rem;
+}
